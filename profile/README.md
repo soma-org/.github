@@ -7,11 +7,11 @@ Check out the codebase [here](https://github.com/soma-org/soma).
 
 ## Contributing
 
-If you are interested in contributing please read the guide [here](https://docs.soma.org/reference/contributing/)
+Read the contributing guide [here](https://docs.soma.org/reference/contributing/)
 
 ## Research Grants
 
-A "request for research" will be released shortly. If you believe you can contribute meaningfully, send a copy of your CV and relevant publications to research@soma.org.
+If you believe you can contribute meaningful academic research, send a copy of your CV and relevant publications to research@soma.org.
 
 ## Employment
 
