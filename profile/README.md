@@ -1,18 +1,17 @@
 ## Quick Links
 
-Read docs [here](https://docs.soma.org/)
-
-Check out the codebase [here](https://github.com/soma-org/soma).
-
+- Read the documentation [here](https://docs.soma.org/)
+- Check out the codebase [here](https://github.com/soma-org/soma)
 
 ## Contributing
 
-Read the contributing guide [here](https://docs.soma.org/reference/contributing/)
+Read the contributing guide [here](https://github.com/soma-org/soma/blob/main/CONTRIBUTING.md)
 
 ## Research Grants
 
-If you believe you can contribute meaningful academic research, send a copy of your CV and relevant publications to research@soma.org.
+To apply, please send a research proposal, your CV, and any relevant publications to [research@soma.org](mailto:research@soma.org).
 
 ## Employment
 
-Contributing to the codebase is the work. Solve issues. Make yourself useful.
+Contributing to the codebase **is** the work.  
+Solve issues, submit pull requests, and help improve the project.
