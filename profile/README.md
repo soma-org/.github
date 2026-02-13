@@ -1,11 +1,11 @@
 ## Quick Links
 
-- Read the documentation [here](https://docs.soma.org/)
-- Check out the codebase [here](https://github.com/soma-org/soma)
+- Read the documentation [here](https://docs.soma.org/).
+- Check out the codebase [here](https://github.com/soma-org/soma).
 
 ## Contributing
 
-Read the contributing guide [here](https://github.com/soma-org/soma/blob/main/CONTRIBUTING.md)
+Read the contributing guide [here](https://github.com/soma-org/soma/blob/main/CONTRIBUTING.md).
 
 ## Research Grants
 
