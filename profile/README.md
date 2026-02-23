@@ -2,7 +2,7 @@ Superintelligence should be controlled by the greatest number of people. Today, 
 
 The Internet has more compute, more data, and more minds than any single organization. The resources to train AI at massive scale simply lack coordination.
 
-Soma is a network that trains a foundation model across the Internet.
+SOMA is a network that trains a foundation model across the Internet.
 
 ## Quick Links
 
